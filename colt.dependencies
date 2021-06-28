@@ -1,0 +1,20 @@
+[
+  {
+    "remote": "github",
+    "repository": "ColtOS-Devices/android_device_xiaomi_surya",
+    "target_path": "device/xiaomi/surya",
+    "branch": "c11"
+  },
+  {
+    "remote": "github",
+    "repository": "ColtOS-Devices/android_vendor_xiaomi_surya",
+    "target_path": "vendor/xiaomi/surya",
+    "branch": "c11"
+  },
+  {
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_kernel_xiaomi_surya",
+    "target_path": "kernel/xiaomi/surya",
+    "branch": "arrow-11.0"
+  }
+]
